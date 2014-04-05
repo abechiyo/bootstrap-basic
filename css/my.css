@@ -1,0 +1,33 @@
+.page-top{
+	background-color: #fff;
+	border-top:3px solid;
+	border-top-color: #f1de72;
+}
+
+.toplogo{
+
+	margin: 20px 0 20px 0;
+}
+
+.jumbotron{
+	background-color: #63e195;
+	margin-left:-40px;
+	margin-top: 0px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+
+}
+
+.navbar{
+	margin-bottom: 0;
+		background-color: #f1de72;
+}
+
+.navbar-nav>li:first-child{
+border-left:none;
+}
+
+.navbar-nav>li.spe{
+	margin-left: 10px;
+}
+
